@@ -1,6 +1,6 @@
 Flask==1.1.2
 gunicorn==19.10.0
-nltk==3.2
+nltk==3.4.5
 TensorFlow == 1.15.4
 numpy
 python-rake
